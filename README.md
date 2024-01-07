@@ -12,8 +12,6 @@ AI ArtGen is an AI tool, brought to you by TechDreams Innovations, to generate a
 
 ## Implementation
 
-## Implementation
-
 - Run `python AI ArtGen.py` in a terminal if you have Python 3 on Windows.
 - Run `python3 AI ArtGen.py` in a terminal if you have Python 3 on Mac/Linux.
 
