@@ -7,5 +7,5 @@ AI ArtGen is an AI tool, brought to you by TechDreams Innovations, to generate a
 ## Prerequisites 
 
 - `getimg.ai` API Key (can be created for free [here](https://getimg.ai/text-to-image))
-- `requests` module (can be installed simply with `pip install requests`.
+- `requests` module (can be installed simply with `pip install requests`)
 - Python3
